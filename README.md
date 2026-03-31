@@ -74,8 +74,7 @@ The goal is to identify meaningful segments like:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/amazon-music-clustering.git
-cd amazon-music-clustering
+https://github.com/nithishflow/amazon_music_clustering.git
 ```
 
 ### 2️⃣ Install dependencies
